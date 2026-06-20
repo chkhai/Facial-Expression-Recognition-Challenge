@@ -363,6 +363,8 @@ Full finetune-მაც კი ვერ აჯობა აქამდე ს�
 
 ## Experiment Tracking
 
-ყველა ექსპერიმენტი დალოგილია [wandb-ზე](https://wandb.ai/chkhai-free-university-of-tbilisi-/fer2013-experiments?nw=nwuserchkhai) 
+ყველა ექსპერიმენტი დალოგილია [wandb-ზე](https://wandb.ai/chkhai-free-university-of-tbilisi-/fer2013-experiments?nw=nwuserchkhai).
+
 თითოეული run-ი შეიცავს Train/val loss, accuracy per epoch, Learning rate schedule
+
 ---
