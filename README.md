@@ -2,7 +2,7 @@
 
 ## პროექტის მოკლე აღწერა
 პროექტის მიზანია ადამიანის სახის გამოსახულებიდან ემოციის დადგენა.
-ამოცანა არის მულტი კლასის კლასიფიკაციის პრობლემას. ინფუთი არის 48x48 ფოტო და სულ გვაქვს 7 ემოცია(Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral)
+ამოცანა არის მულტი კლასის კლასიფიკაციის პრობლემა. ინფუთი არის 48x48 ფოტო და სულ გვაქვს 7 ემოცია(Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral)
 
 ## პროექტის სტრუქტურა
 
@@ -16,7 +16,7 @@
 
 ## შეფასების მეტრიკა
 
-ტრენინგის დროს ვაკვირდებოდი train/val loss, train/val accuracy, overfit gap(train acc - val acc), საბოლოო მოდელის შესაფასებლად კი გამოვიყენე confusion matrix და თითოეული კლასისთვის Precision, Recall, F1.
+ტრენინგოს დროს ვაკვირდებოდი train/val loss, train/val accuracy, overfit gap(train acc - val acc), საბოლოო მოდელის შესაფასებლად კი გამოვიყენე confusion matrix და თითოეული კლასისთვის Precision, Recall, F1.
 
 
 ## EDA
