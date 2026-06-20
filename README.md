@@ -16,7 +16,7 @@
 
 ## შეფასების მეტრიკა
 
-ტრენინგოს დროს ვაკვირდებოდი train/val loss, train/val accuracy, overfit gap(train acc - val acc), საბოლოო მოდელის შესაფასებლად კი გამოვიყენე confusion matrix და თითოეული კლასისთვის Precision, Recall, F1.
+ტრენინგის დროს ვაკვირდებოდი train/val loss, train/val accuracy, overfit gap(train acc - val acc), საბოლოო მოდელის შესაფასებლად კი გამოვიყენე confusion matrix და თითოეული კლასისთვის Precision, Recall, F1.
 
 
 ## EDA
